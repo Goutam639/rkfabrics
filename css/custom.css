@@ -16,7 +16,7 @@ h3,
 h4,
 h5,
 h6{
-	margin:0;
+	margin: 0;
 	font-weight: 700;
 }
 
@@ -35,12 +35,12 @@ a:focus{
 }
 
 #particles-js {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 2;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 2;
 }
 
 #particles-js canvas{
@@ -131,6 +131,7 @@ a:focus{
 
 .newsletter-form{
 	background: rgba(255,255,255,0.1);
+	margin-top: 30px;
 }
 
 .new-text{
@@ -158,10 +159,6 @@ a:focus{
 	color: #fff;
 }
 
-.new-text:-moz-placeholder {
-	color: #fff;
-}
-
 .new-btn{
 	height: 50px;
 	border: none;
@@ -184,10 +181,6 @@ a:focus{
 
 .new-btn:hover{
 	background: rgba(255,255,255,0.5);
-}
-
-.newsletter-form{
-	margin-top: 30px;
 }
 
 /****************************************
@@ -264,8 +257,4 @@ a:focus{
 	.new-btn{
 		height: 40px;
 	}
-}
-
-@media only screen and (max-width:360px){
-	
 }
