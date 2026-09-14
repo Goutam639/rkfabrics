@@ -89,7 +89,7 @@ a:focus {
 }
 
 .coming-text {
-	padding: 40px 0;
+	padding-top: 30px;
 }
 
 .coming-text h2 {
@@ -100,6 +100,7 @@ a:focus {
 }
 
 .social-link {
+	padding-top: 20px;
 	text-align: center;
 }
 
